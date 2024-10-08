@@ -328,6 +328,7 @@ body.nav-active { overflow: hidden; }
   position: relative;
   color: var(--gold-crayola);
   font-weight: var(--weight-bold);
+  font-size: 35px;
   text-transform: uppercase;
   letter-spacing: var(--letterSpacing-2);
   margin-block-end: 12px;
